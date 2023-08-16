@@ -16,7 +16,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fgakz%2Fnext-waitlist&env=MAILERLITE_API_KEY,CLERK_SECRET_KEY,NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY&envDescription=API%20keys%20for%20future%20support%20for%20auth%20using%20Clerk%20and%20user%20email%20collection%20using%20MailerLite&demo-title=Next%20Waitlist&demo-description=A%20landing%20page%20waitlist)
+
 
 ## Learn More
 
